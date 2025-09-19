@@ -1,3 +1,7 @@
+
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+
 # Hand Gesture Control System
 
 This project is a **hand gesture recognition and control system** built with **MediaPipe**, **PyQt6**, and optional **machine learning (SVM)**.  
@@ -15,6 +19,7 @@ It allows you to control mouse, keyboard, volume, brightness, and even launch pr
 - **Custom gestures:** Train and save your own gestures.
 - **Machine Learning mode (SVM):** Train a model to recognize gestures and launch applications.
 
+[![image2.jpg](https://i.postimg.cc/0Q3ZNrdW/image2.jpg)](https://postimg.cc/Fdy0Wr63)
 ---
 
 ## 📦 Requirements
@@ -53,6 +58,8 @@ Run the application with:
 4. (Optional) Train ML-based gestures for advanced recognition.
 
 ---
+
+[![image1.png](https://i.postimg.cc/h4kpWzGh/image1.png)](https://postimg.cc/9zBGyfZj)
 
 ## 📌 Tested On
 - Python 3.9+
