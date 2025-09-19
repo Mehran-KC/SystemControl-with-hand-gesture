@@ -1,0 +1,10 @@
+numpy
+opencv-python
+mediapipe
+PyQt6
+pyautogui
+scikit-learn
+joblib
+comtypes
+pycaw
+screen-brightness-control
